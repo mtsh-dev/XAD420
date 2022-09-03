@@ -3,5 +3,6 @@
 
 ```console
 Visitor Counter
-![Visitor Count](https://profile-counter.glitch.me/xad420/count.svg)
 ```
+![Visitor Count](https://profile-counter.glitch.me/xad420/count.svg)
+
