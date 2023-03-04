@@ -4,7 +4,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xad420&theme=tokyonight&show_icons=true)
 
 
-```console
-Visits
-```
+<h1>Visitor Counter</h1>
 ![Visitor Counter](https://profile-counter.glitch.me/xad420/count.svg)
