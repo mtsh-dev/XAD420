@@ -7,4 +7,4 @@
 ```console
 Visits
 ```
-https://profile-counter.glitch.me/xad420/count.svg
+![Visitor Counter](https://profile-counter.glitch.me/xad420/count.svg)
