@@ -3,7 +3,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xad420&layout=compact)](https://github.com/xad420)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xad420&theme=tokyonight&show_icons=true)
 
-<h1>Visitor Counter</h1>
+
 ```console
-https://profile-counter.glitch.me/xad420/count.svg
+Visits
 ```
+https://profile-counter.glitch.me/xad420/count.svg
